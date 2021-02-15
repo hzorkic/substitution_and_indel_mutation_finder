@@ -11,3 +11,4 @@ count(df, c("type", "mutations"))
 
 
 head(GISAID)
+
